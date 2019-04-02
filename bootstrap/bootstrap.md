@@ -7,6 +7,7 @@ About 4 hours 45 minutes
 - 4 hours for Independent Practice & Challenge
 
 ### Prerequisites
+- Bootstrap essentials:
 - "HTML" lesson
 - "CSS" lesson
 - "UX/UI" lesson
